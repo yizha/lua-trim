@@ -1,0 +1,1 @@
+This is a C implementation for trim in lua, which is much faster than pure lua implementation.
